@@ -121,7 +121,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-REST_ FRAMEWORK ={
+REST_FRAMEWORK ={
 
     'DEFAULT_ PERMISSION _CLASSES': [
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
